@@ -1,8 +1,8 @@
 name: terun
 description: A very simple package which allow you to invoke third-party commands via Terminal or Command Prompt.
 version: 1.0.0
-repository: https://github.com/leamlidara/Terminal
-issue_tracker: https://github.com/leamlidara/Terminal/issues
+repository: https://github.com/leamlidara/Terun
+issue_tracker: https://github.com/leamlidara/Terun/issues
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
